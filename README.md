@@ -1,4 +1,4 @@
-# stat4984
+# DeepLearningFinalProject
 Computer Vision Final Project
 
 STAT 4984 - Deep Learning
